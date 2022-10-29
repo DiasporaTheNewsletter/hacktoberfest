@@ -1,3 +1,8 @@
+#### Name: Diaspora
+- Place: Durg, Chhattisgarh, India
+- Bio: Student
+- GitHub: [DiasporaTheNewsletter](https://github.com/DiasporaTheNewsletter)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
